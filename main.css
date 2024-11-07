@@ -24,7 +24,7 @@ a:focus, a:hover {
 }
 
 body {
-
+	font-size: 15px;
 }
 
 code {
@@ -36,19 +36,19 @@ h1, h2, h3 {
 }
 
 h1 {
-
+	font-size: 30px;
 }
 
 h2 {
-
+	font-size: 25px;
 }
 
 h3 {
-	
+	font-size: 20px;
 }
 
 header {
-	
+	font-size: 35px;
 }
 
 main {
