@@ -36,6 +36,11 @@ h1, h2, h3 {
 
 	text-align: center;
 
+	font-weight: bold;
+
+	font-style: italic;
+
+	text-decoration: underline;
 }
 
 h1 {
@@ -55,7 +60,7 @@ header {
 }
 
 main {
-	text-indent: 2em;
+	
 }
 
 p {
@@ -63,9 +68,9 @@ p {
 }
 
 #intro {
-
+	text-indent: 2em;
 }
 
 #how-does-it-work, #influence, #joke {
-
+	text-indent: 2em;
 }
