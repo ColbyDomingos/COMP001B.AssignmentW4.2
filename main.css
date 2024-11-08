@@ -32,6 +32,9 @@ code {
 }
 
 h1, h2, h3 {
+	line-height: 2em;
+
+	text-align: center;
 
 }
 
@@ -52,11 +55,11 @@ header {
 }
 
 main {
-
+	text-indent: 2em;
 }
 
 p {
-
+	font-family: 'Roboto', sans-serif;
 }
 
 #intro {
